@@ -1879,3 +1879,13 @@ section {
   font-size: 13px;
   color: #fff;
 }
+
+.btn-call {
+  background-color: #111;
+  color: white;
+  position: fixed;
+  left: 0;
+  bottom: 15px;
+  z-index: 9999;
+  border: 1px solid white;
+}
